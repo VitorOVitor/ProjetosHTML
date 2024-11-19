@@ -1,2 +1,2 @@
 # ProjetosHTML
-Projetos de HTML disponibilizados pela plataforma DIO.
+Projetos de HTML disponibilizados pela plataforma DIO. 
